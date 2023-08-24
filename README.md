@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left"># O motivo de estar aqui</h2>
+<h2 align="left"># O porquê de estar aqui</h2>
 
 ###
 
